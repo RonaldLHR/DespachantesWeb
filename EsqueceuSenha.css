@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(238, 235, 235);
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+section{
+    background-color: white;
+    border-radius: 15px;
+    width: 50%;
+    padding: 2.75rem;
+    max-width: 50rem;
+    box-sizing: border-box;
+    margin-bottom:5rem;
+    display: flex;
+    flex-direction:column;
+}
+.div{
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+}
+input{
+  border:none;
+    margin-top: 1rem;
+    text-align: center;
+    padding: 2%;
+    border-bottom: 0.1rem solid;
+    height: 3.15rem;
+    width: 100%;
+    box-sizing: border-box;
+}
+.botao{
+    border-radius: 5px;
+    margin-top:1rem;
+    padding: 1%;
+    font-size: 100%;
+    background-color:rgb(67, 163, 207);
+    border:none;
+}
+.efeitos{
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    background-color: rgb(68, 184, 68);
+}
+.efeitos2{
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(44, 130, 230);
+    background-color:white;
+}

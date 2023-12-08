@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(43, 84, 160);
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+section{
+    background-color: white;
+    border-radius: 80px;
+    width: 40%;
+    padding: 1.75rem;
+    max-width: 80rem;
+    box-sizing: border-box;
+    margin-bottom:5rem;
+    display: flex;
+    flex-direction:column;
+}
+.div{
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+}
+input{
+  border:none;
+    margin-top: 1rem;
+    text-align: center;
+    padding: 2%;
+    border-bottom: 0.1rem solid;
+    height: 3.15rem;
+    width: 100%;
+    box-sizing: border-box;
+}
+.botao{
+    border-radius: 5px;
+    margin-top:1rem;
+    padding: 1%;
+    font-size: 100%;
+    background-color:rgb(67, 163, 207);
+    border:none;
+}
+.efeitos{
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    background-color: rgb(250, 246, 43);
+}
+
+
